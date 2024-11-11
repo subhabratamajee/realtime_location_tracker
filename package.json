@@ -1,0 +1,13 @@
+{
+  "name": "live_tracker",
+  "version": "1.0.0",
+  "description": "This the live location tracker",
+  "main": "app.js",
+  "author": "Subhabrata Majee",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
